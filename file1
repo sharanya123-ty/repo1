@@ -1,2 +1,5 @@
-this is a file of repo -merge conflict creation
+<<<<<<< HEAD
+=======
+this is a file of repo - new changes
+>>>>>>> brh1
 this is 2nd line 1
